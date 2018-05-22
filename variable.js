@@ -17,6 +17,7 @@
 // console.log(hasil)
 
 // 2. Data type
+/*
 const nama = "Yogie"; // String
 const umur = 17; // integer
 const nominal = 20.5; // double
@@ -35,6 +36,9 @@ console.log(nama)
 console.log(nama + ' umur saya: ' + umur)
 console.log(cars[1]) // array always has index
 console.log(info.city + ' ' + info.angka[3])
+*/
+
+
 
 
 
